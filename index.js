@@ -15,5 +15,5 @@ function randomPassword(){
 
 function reset(){
     passwordOne.textContent = "Password 1"
-    passwordTwo.textContent = "password 2"
+    passwordTwo.textContent = "Password 2"
 }
